@@ -3,3 +3,11 @@
 .vs/ProgrammingExersices/v15/Server/sqlite3/storage.ide
 .vs/ProgrammingExersices/v15/Server/sqlite3/storage.ide-shm
 .vs/ProgrammingExersices/v15/Server/sqlite3/storage.ide-wal
+*.exe
+*.pdb
+*.cache
+ExersicesConsoleApp/bin/Debug/ExersicesConsoleApp.exe.config
+ExersicesConsoleApp/obj/Debug/ExersicesConsoleApp.csproj.CoreCompileInputs.cache
+ExersicesConsoleApp/obj/Debug/ExersicesConsoleApp.csproj.FileListAbsolute.txt
+ExersicesConsoleApp/obj/Debug/ExersicesConsoleApp.csproj.CoreCompileInputs.cache
+ExersicesConsoleApp/obj/Debug/ExersicesConsoleApp.csproj.CoreCompileInputs.cache
