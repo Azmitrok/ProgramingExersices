@@ -14,6 +14,12 @@ namespace ExersicesConsoleApp
             // Press Ctrl+F5 (or go to Debug > Start Without Debugging) to run your app.
             Console.WriteLine("Hello World!");
 
+            //null-coalescing operator
+
+            int? i = null;
+
+            var res = i ?? default(int);
+
             //new Basics().BoxingUnboxingExample();
             //new AsyncExamples().Main();
             new AsyncExamples().MultiThreadParallel();
