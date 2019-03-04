@@ -1,3 +1,4 @@
+using ExersicesConsoleApp.DataStructures;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,8 +23,11 @@ namespace ExersicesConsoleApp
 
             //new Basics().BoxingUnboxingExample();
             //new AsyncExamples().Main();
-            new AsyncExamples().MultiThreadParallel();
+            //new AsyncExamples().MultiThreadParallel();
 
+            var duplicate = new Arrays().FindDuplicateInArrangedNumbers(new int[] { 1, 2, 3, 3, 4, 5, 6, 7, 8, 9 });
+
+            Console.WriteLine("duplicate = " + duplicate);
             Console.ReadKey();
 
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
