@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExersicesConsoleApp", "ExersicesConsoleApp\ExersicesConsoleApp.csproj", "{2A082D09-93D3-4C76-BA9B-25AF3CF51561}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisSampleApp", "RedisSampleApp\RedisSampleApp.csproj", "{37FF0355-D762-40ED-BEE6-7DEBE909867C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2A082D09-93D3-4C76-BA9B-25AF3CF51561}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A082D09-93D3-4C76-BA9B-25AF3CF51561}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A082D09-93D3-4C76-BA9B-25AF3CF51561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37FF0355-D762-40ED-BEE6-7DEBE909867C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37FF0355-D762-40ED-BEE6-7DEBE909867C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37FF0355-D762-40ED-BEE6-7DEBE909867C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37FF0355-D762-40ED-BEE6-7DEBE909867C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
